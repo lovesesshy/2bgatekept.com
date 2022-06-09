@@ -1,1 +1,1 @@
-# tobecrushed.github.io
+$ npm install github-markdown-css
